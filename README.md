@@ -37,7 +37,7 @@ You are required to model the price of houses with the available independent var
 
 ## Acknowledgements
 - This project was part of the Graded Assignment from MS ML & AI IIITB & LJMU
-- This project was based on Advanced Regression tutorial in MS ML & AI by IIITB & LJMU
+- This project was based on Advanced Regression tutorial in MS ML & AI by IIITB & LJMU.
 
 ## Contact
 Created by [@IndrashisChatterjee] - feel free to contact me!
